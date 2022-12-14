@@ -19,7 +19,6 @@
 * [Running Our Web Application (for Developers)](#Setup)
 * [Deploying Our Web Application (for Developers)](#Deployment)
 * [Walkthrough of Our Web Application](#Walkthrough)
-* [X-Factors](#X-Factors)
 
 
 
@@ -215,15 +214,5 @@ Step 2. Commit your code to the repository and deploy it to Heroku using Git.
 ![myprofile_interest](https://user-images.githubusercontent.com/53822560/141672739-77bf733f-382e-42ed-8cf5-baff686565ed.png)
 
 
-
-
-## X-Factors
-| Item  | Justification |
-| ------------- | ------------- |
-| Github  | Our group plans to split work in such a way that each member owns certain components/parts of our project web application. We will use GitHub to regularly check in and merge our source code so as to exercise continuous integration.  |
-| Vue CLI  | Vue.js uses a component-based architecture, thereby separating large chunks of code into smaller components. In addition, in Vue.js, everything is a component, and each component is written with HTML, CSS, and JavaScript, thereby encouraging readability and simplicity.  |
-| Sass  | Sass both provides a simpler, more elegant syntax for CSS and implements various features that are useful for creating manageable stylesheets.  |
-| MongoDB  | MongoDB uses a non relational database, allowing us to easily store and retrieve data dynamically.   |
-| Cloud Deployment  | We will deploy our web application to Heroku and host it live. Users can visit our website via the public IP address or url provided after the cloud deployment.  |
 
 
